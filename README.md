@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Navdeep Singh Ahuja
+# Hi, I'm Navdeep Singh Ahuja ❤️
 
 ### 🚀 Aspiring Software Engineer | DSA | AI/ML | Full-Stack Development
 
