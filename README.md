@@ -60,13 +60,13 @@
 <!-- ========================================================= -->
 
 <!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=navdeepsinghahuja&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=navdeepsinghahuja&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/> -->
 
 <!-- Number of GitHub followers -->
-<img src="https://img.shields.io/github/followers/navdeepsinghahuja?label=FOLLOWERS&style=flat-square&color=6366F1"/>
+<!-- <img src="https://img.shields.io/github/followers/navdeepsinghahuja?label=FOLLOWERS&style=flat-square&color=6366F1"/> -->
 
 <!-- Total stars received across your repositories -->
-<img src="https://img.shields.io/github/stars/navdeepsinghahuja?label=STARS&style=flat-square&color=8B5CF6"/>
+<!-- <img src="https://img.shields.io/github/stars/navdeepsinghahuja?label=STARS&style=flat-square&color=8B5CF6"/> -->
 
 </div>
 
@@ -363,24 +363,24 @@ Focused on developing practical engineering skills through structured DSA prepar
 <div align="center">
 
 <!-- LeetCode -->
-<a href="https://leetcode.com/yourusername/">
+<a href="https://leetcode.com/im_navdeep06/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="42"/>
 </a>
 
 <!-- GeeksforGeeks -->
-<a href="https://www.geeksforgeeks.org/user/yourusername/">
+<!-- <a href="https://www.geeksforgeeks.org/user/yourusername/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="42"/>
-</a>
+</a> -->
 
 <!-- HackerRank -->
-<a href="https://www.hackerrank.com/yourusername">
+<!-- <a href="https://www.hackerrank.com/yourusername">
 <img src="https://img.shields.io/badge/HackerRank-1F1F1F?style=for-the-badge&logo=hackerrank&logoColor=00EA64" height="42"/>
-</a>
+</a> -->
 
 <!-- CodeChef -->
-<a href="https://www.codechef.com/users/yourusername">
+<!-- <a href="https://www.codechef.com/users/yourusername">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="42"/>
-</a>
+</a> -->
 
 </div>
 
