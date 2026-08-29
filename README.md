@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Top animated Capsule Render banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,13,14&text=NAVDEEP&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,13,14&text=NAVDEEP%20SINGH%20AHUJA&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 <!-- Animated typing text -->
 <a href="https://git.io/typing-svg">
